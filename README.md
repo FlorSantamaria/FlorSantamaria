@@ -1,4 +1,29 @@
-### Hi there 👋
+### **Hola, soy Florencia Santamaría** 👋
+
+Estudiante de **Desarrollo de Aplicaciones Móviles** 
+
+🌱 Actualmente estoy aprendiendo **Kotlin y Java** para ser desarrolladora Android
+
+⚡ Enfocada en capacitarme y en buscar oportunidades laborales, donde pueda contribuir en diferentes proyectos
+
+📫 **Contacto:**
+
+   **-Gmail: florenciasantamaria98@gmail.com**
+
+   **-Linkedin: https://www.linkedin.com/in/f-santamaría/**
+
+**Lenguajes y Herramientas:**
+Android, Java, Kotlin, Sql Server, MySql, Firebase, Git
+
+
+
+
+
+
+
+
+
+
 
 <!--
 **FlorSantamaria/FlorSantamaria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
