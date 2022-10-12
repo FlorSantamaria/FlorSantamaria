@@ -1,6 +1,5 @@
-### **Hola, soy Florencia Santamaría** 👋
-
-Estudiante de **Desarrollo de Aplicaciones Móviles** 
+# **Hola, soy Florencia Santamaría** 👋
+### Estudiante de **Desarrollo de Aplicaciones Móviles** 
 
 🌱 Actualmente estoy aprendiendo **Kotlin y Java** para ser desarrolladora Android
 
@@ -12,8 +11,8 @@ Estudiante de **Desarrollo de Aplicaciones Móviles**
 
    **-Linkedin: https://www.linkedin.com/in/f-santamaría/**
 
-**Lenguajes y Herramientas:**
-Android, Java, Kotlin, Sql Server, MySql, Firebase, Git
+### **Lenguajes y Herramientas:**
+*Android, Java, Kotlin, Sql Server, MySql, Firebase, Git*
 
 
 
