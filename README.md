@@ -1,9 +1,7 @@
 # **Hola, soy Florencia Santamaría** 👋
 ### Estudiante de **Desarrollo de Aplicaciones Móviles** 
 
-🌱 Actualmente estoy aprendiendo **Kotlin y Java** para ser desarrolladora Android
-
-⚡ Enfocada en capacitarme y en buscar oportunidades laborales, donde pueda contribuir en diferentes proyectos
+🌈 Actualmente trabajando en **Andreani** como desarrolladora fullstack en un equipo de mobile
 
 📫 **Contacto:**
 
@@ -12,7 +10,7 @@
    **-Linkedin: https://www.linkedin.com/in/f-santamaría/**
 
 ### **Lenguajes y Herramientas:**
-*Android, Java, Kotlin, Sql Server, MySql, Firebase, Git*
+*ReactJS, Android, C#, .NET, Java, Kotlin, Sql Server, MySql, Firebase, Git, ReactJS, React Native, Typescript*
 
 
 
